@@ -12,10 +12,10 @@ Machine Learning project developed as part of the Pattern Recognition course at 
 - Naive Bayes
 
 ## Dataset
-UCI Human Activity Recognition Using Smartphones Dataset
+UCI Human Activity Recognition Using Smartphones Dataset.
 
 ## Results
 Best accuracy achieved: 95.69% using SVM.
 
 ## Technologies
-Python, Scikit-learn, NumPy, Pandas, Matplotlib
+Python, Scikit-learn, NumPy, Pandas, Matplotlib.
