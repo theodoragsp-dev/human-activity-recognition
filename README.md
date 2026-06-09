@@ -19,5 +19,3 @@ Best accuracy achieved: 95.69% using SVM.
 
 ## Technologies
 Python, Scikit-learn, NumPy, Pandas, Matplotlib
-
-![image alt]([image_url](https://github.com/theodoragsp-dev/human-activity-recognition/blob/c162212e7da58fcb31a898779d9a5b343dc52b17/photo4.png))
